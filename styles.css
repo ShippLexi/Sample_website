@@ -1,0 +1,73 @@
+.banner {
+  border-style: solid;
+  border-width: 3px;
+  border-color: teal;
+  text-align: right;
+  background:
+}
+
+h1 {
+  text-align: center;
+}
+a:link, a:visited {
+  background-color: #f44336;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+.row {
+display: flex;
+flex-wrap: wrap;
+padding: 0 4px;
+}
+
+/* Create two equal columns that sits next to each other */
+.column {
+flex: 50%;
+padding: 0 4px;
+}
+
+.column img {
+margin-top: 8px;
+vertical-align: middle;
+}
+.banner{
+border-style: solid;
+border-width: 3px;
+border-color: white;
+text-align: right top;
+}
+.footer{
+padding: 10px;
+}
+h1{
+text-align: center;
+}
+a:link, a:visited {
+background-color: #f44336;
+color: white;
+padding: 14px 25px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+}
+.banner {
+  border-style: solid;
+  border-width: 3px;
+  border-color: teal;
+  text-align: right;
+}
+
+h1 {
+  text-align: center;
+}
+a:link, a:visited {
+  background-color: #f44336;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
